@@ -1,0 +1,57 @@
+|   Tokens   |  Lexemas  |                Log         |
+-------------------------------------------------------
+|            |           |               Prog         |
+|            |           |          Principal         |
+|            |           |         Decl. Main         |
+|   R_MAN    | MAIN      |                 OK         |
+|   R_APR    |    (      |                 OK         |
+|   R_FPR    |    )      |                 OK         |
+|            |           | Decl. de Variável         |
+|   R_VAR    |  VAR      |                 OK         |
+|   R_INT    |  INT      |                 OK         |
+|   L_IDF    |    a      |                 OK         |
+|   O_POV    |    ;      |                 OK         |
+|            |           | Decl. de Variável         |
+|   R_VAR    |  VAR      |                 OK         |
+|   R_INT    |  INT      |                 OK         |
+|   L_IDF    |    b      |                 OK         |
+|   O_POV    |    ;      |                 OK         |
+|            |           | Decl. de Variável         |
+|   R_VAR    |  VAR      |                 OK         |
+|   R_CHA    | CHAR      |                 OK         |
+|   L_IDF    |    d      |                 OK         |
+|   O_POV    |    ;      |                 OK         |
+|            |           |       Atribuição         |
+|   L_IDF    |    a      |                 OK         |
+|   O_ATR    |    =      |                 OK         |
+|   L_IDF    |    b      |                 OK         |
+|   O_POV    |    ;      |                 OK         |
+|            |           |          Seleção         |
+|   R_IFF    |   IF      |                 OK         |
+|   L_IDF    |    a      |                 OK         |
+|   O_SUM    |    +      |                 OK         |
+|   L_IDF    |    b      |                 OK         |
+|   R_THN    | THEN      |                 OK         |
+|            |           |       Atribuição         |
+|   L_IDF    |    b      |                 OK         |
+|   O_ATR    |    =      |                 OK         |
+|   L_INT    |    2      |                 OK         |
+|   O_POV    |    ;      |                 OK         |
+|            |           |            Escrita         |
+|   R_PTN    |println      |                 OK         |
+|   R_APR    |    (      |                 OK         |
+|   L_CHR    |  'D'      |                 OK         |
+|   R_FPR    |    )      |                 OK         |
+|   O_POV    |    ;      |                 OK         |
+|   R_ENF    |END-IF      |                 OK         |
+|            |           | Decl. de Variável         |
+|   R_VAR    |  VAR      |                 OK         |
+|   R_INT    |  INT      |                 OK         |
+|   L_IDF    |    c      |                 OK         |
+|   O_POV    |    ;      |                 OK         |
+|            |           |       Atribuição         |
+|   L_IDF    |    c      |                 OK         |
+|   O_ATR    |    =      |                 OK         |
+|   L_INT    |    2      |                 OK         |
+|   O_POV    |    ;      |                 OK         |
+|   R_END    |  END      |                 OK         |

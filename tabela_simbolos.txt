@@ -1,0 +1,7 @@
+|     Nome   |     Tipo   |   Classe  |
+---------------------------------------
+|     main   |      int   | function  |
+|        a   |      int   |      var  |
+|        b   |      int   |      var  |
+|        d   |     char   |      var  |
+|        c   |      int   |      var  |

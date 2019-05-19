@@ -1,0 +1,112 @@
+|  Log do Analisador Léxico  |   Tokens   |  Lexemas  |
+-------------------------------------------------------
+|          Estado 21         |   R_MAN    | MAIN      |
+|          Estado 28         |   R_APR    |    (      |
+|          Estado 29         |   R_FPR    |    )      |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|          Estado 21         |   R_VAR    |  VAR      |
+|           Estado 1         |            |           |
+|          Estado 21         |   R_INT    |  INT      |
+|           Estado 1         |            |           |
+|          Estado 21         |   L_IDF    |    a      |
+|          Estado 27         |   O_POV    |    ;      |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|          Estado 21         |   R_VAR    |  VAR      |
+|           Estado 1         |            |           |
+|          Estado 21         |   R_INT    |  INT      |
+|           Estado 1         |            |           |
+|          Estado 21         |   L_IDF    |    b      |
+|          Estado 27         |   O_POV    |    ;      |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|          Estado 21         |   R_VAR    |  VAR      |
+|           Estado 1         |            |           |
+|          Estado 21         |   R_CHA    | CHAR      |
+|           Estado 1         |            |           |
+|          Estado 21         |   L_IDF    |    d      |
+|          Estado 27         |   O_POV    |    ;      |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|          Estado 21         |   L_IDF    |    a      |
+|           Estado 1         |            |           |
+|          Estado 14         |   O_ATR    |    =      |
+|           Estado 1         |            |           |
+|          Estado 21         |   L_IDF    |    b      |
+|          Estado 27         |   O_POV    |    ;      |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|          Estado 21         |   R_IFF    |   IF      |
+|           Estado 1         |            |           |
+|          Estado 21         |   L_IDF    |    a      |
+|           Estado 1         |            |           |
+|          Estado 10         |   O_SUM    |    +      |
+|           Estado 1         |            |           |
+|          Estado 21         |   L_IDF    |    b      |
+|           Estado 1         |            |           |
+|          Estado 21         |   R_THN    | THEN      |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|          Estado 21         |   L_IDF    |    b      |
+|           Estado 1         |            |           |
+|          Estado 14         |   O_ATR    |    =      |
+|           Estado 1         |            |           |
+|           Estado 2         |   L_INT    |    2      |
+|          Estado 27         |   O_POV    |    ;      |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|          Estado 21         |   R_PTN    |println      |
+|          Estado 28         |   R_APR    |    (      |
+|          Estado 26         |   L_CHR    |  'D'      |
+|          Estado 29         |   R_FPR    |    )      |
+|          Estado 27         |   O_POV    |    ;      |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|          Estado 21         |   R_ENF    |END-IF      |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|          Estado 21         |   R_VAR    |  VAR      |
+|           Estado 1         |            |           |
+|          Estado 21         |   R_INT    |  INT      |
+|           Estado 1         |            |           |
+|          Estado 21         |   L_IDF    |    c      |
+|          Estado 27         |   O_POV    |    ;      |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|           Estado 1         |            |           |
+|          Estado 21         |   L_IDF    |    c      |
+|           Estado 1         |            |           |
+|          Estado 14         |   O_ATR    |    =      |
+|           Estado 1         |            |           |
+|           Estado 2         |   L_INT    |    2      |
+|          Estado 27         |   O_POV    |    ;      |
+|          Estado 21         |   R_END    |  END      |
+|                            |            |           |

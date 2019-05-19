@@ -1,0 +1,12 @@
+MAIN()
+    VAR INT a;
+    VAR INT b;
+    VAR CHAR d;
+    a = b;
+    IF a + b THEN
+        b = 2;
+        println('D');
+    END-IF
+    VAR INT c;
+    c = 2;
+END

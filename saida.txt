@@ -1,0 +1,15 @@
+|  Log do Analisador Léxico  |   Tokens   |  Lexemas  |
+-------------------------------------------------------
+|          Estado 21         |   R_VAR    |  VAR      |
+|           Estado 1         |            |           |
+|          Estado 21         |   R_INT    |  INT      |
+|           Estado 1         |            |           |
+|          Estado 21         |   L_IDF    |    a      |
+|          Estado 27         |   O_POV    |    ;      |
+|          Estado 21         |   R_VAR    |  VAR      |
+|           Estado 1         |            |           |
+|          Estado 21         |   R_INT    |  INT      |
+|           Estado 1         |            |           |
+|          Estado 21         |   L_IDF    |    b      |
+|          Estado 27         |   O_POV    |    ;      |
+|                            |            |           |
